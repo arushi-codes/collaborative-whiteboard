@@ -4,7 +4,7 @@ import Toolbar from './Toolbar'
 import ChatPanel from './ChatPanel'
 import CanvasArea from './CanvasArea'
 
-const SOCKET_URL = 'http://localhost:3001'
+const SOCKET_URL = 'https://collaborative-whiteboard-6lfb.onrender.com'
 
 export default function Whiteboard({ roomId, username }) {
   const canvasRef = useRef(null)
