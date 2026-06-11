@@ -37,5 +37,3 @@ A real-time, multi-user collaborative whiteboard built with React, Node.js, Sock
 | **Canvas** | HTML5 Canvas API |
 | **Deployment** | Vercel (Frontend), Render (Backend) |
 | **Monitoring** | UptimeRobot (Keep-alive pings) |
-
-## 🏗️ Architecture
